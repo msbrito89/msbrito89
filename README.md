@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
-
+- 🌱 I’m currently learning Java programming language.
+- 🤔 I’m looking for a job in technology area.
+- 😄 Pronouns: She / Her .
 
 
 
