@@ -3,6 +3,7 @@
 - 🤔 I’m looking for a job in technology area.
 - 😄 Pronouns: She / Her .
 
+<p align-"center".
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=msbrito89&show_icons=true&theme=dark"
@@ -14,6 +15,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+</p>
 
 <!-- <p align-"center">
 
