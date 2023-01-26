@@ -3,11 +3,11 @@
 - 🤔 I’m looking for a job in technology area.
 - 😄 Pronouns: She / Her .
 
-<p align-"center">
+
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=msbrito89&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=msbrito89&show_icons=true&theme=synthwave"
+  media="(prefers-color-scheme:dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=msbrito89&show_icons=true"
@@ -15,9 +15,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-</p>
 
-<!-- <p align-"center">
+<!--<p align-"center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbrito89&show_icons=true&layout=compact&theme=dark" />
